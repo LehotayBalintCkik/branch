@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 ez az első sor
 ez a második sor
 ez pedig a harmadik sor (master)
+=======
+ez egy sor
+ez a második sor
+harmadik sor (Gábor)
+>>>>>>> bugfix
