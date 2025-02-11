@@ -1,2 +1,3 @@
-ez egy sor
+ez az első sor
 ez a második sor
+ez pedig a harmadik sor (master)
